@@ -10,7 +10,7 @@ public class TestGIthub {
     public static void main(String[] args) {
         
         // Write your fullname
-        String member1 = "John Philip Requio";
+        String member1 = "John Philip William Requio";
         String member2;
         String member3;
         String member4;
